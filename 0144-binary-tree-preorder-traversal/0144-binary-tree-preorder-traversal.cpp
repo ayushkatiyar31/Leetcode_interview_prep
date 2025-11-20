@@ -24,5 +24,6 @@ public:
         result.push_back(node -> val);
         preorder(node -> left, result);
         preorder(node -> right, result);
+        
     }
 };
