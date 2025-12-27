@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0217-contains-duplicate) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2058-concatenation-of-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
