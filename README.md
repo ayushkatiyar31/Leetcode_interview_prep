@@ -133,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
