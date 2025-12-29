@@ -8,8 +8,10 @@ public:
             sort(key.begin(),key.end());
             mp[key].push_back(strs[i]);
         }
-         vector<vector<string>>result;
+
+        vector<vector<string>>result;
         for(auto it = mp.begin(); it != mp.end(); it++){
+
             result.push_back(it->second);
         }
         return result;
