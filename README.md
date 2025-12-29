@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -155,5 +156,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
