@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0036-valid-sudoku) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
