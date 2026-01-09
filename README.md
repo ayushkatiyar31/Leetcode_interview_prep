@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Sorting
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
