@@ -158,14 +158,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1908-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
