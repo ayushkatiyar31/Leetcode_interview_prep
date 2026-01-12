@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0217-contains-duplicate) |
 | [0518-coin-change-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0518-coin-change-ii) |
+| [0792-binary-search](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0792-binary-search) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1395-minimum-time-visiting-all-points) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
