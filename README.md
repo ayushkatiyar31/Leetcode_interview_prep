@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1395-minimum-time-visiting-all-points) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
