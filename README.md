@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0217-contains-duplicate) |
+| [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0518-coin-change-ii) |
 | [0792-binary-search](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0948-sort-an-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
