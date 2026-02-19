@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1395-minimum-time-visiting-all-points) |
