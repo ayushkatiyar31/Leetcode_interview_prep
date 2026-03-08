@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0141-linked-list-cycle) |
 ## Counting
 |  |
