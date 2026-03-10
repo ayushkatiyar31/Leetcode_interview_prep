@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0518-coin-change-ii) |
 | [0792-binary-search](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0792-binary-search) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Sorting
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0948-sort-an-array) |
 ## Matrix
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0948-sort-an-array) |
 ## Binary Search Tree
 |  |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
@@ -255,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -263,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -276,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
