@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0518-coin-change-ii) |
 | [0792-binary-search](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
+| [0816-design-hashset](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0816-design-hashset) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Sorting
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0141-linked-list-cycle) |
+| [0816-design-hashset](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0816-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -287,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
