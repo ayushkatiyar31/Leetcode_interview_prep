@@ -11,7 +11,6 @@ public:
             while(i + 1 < n && nums[i + 1] == nums[i] + 1){
                 i++;
             }
-            
             if(start == nums[i]){
                 result.push_back(to_string(start));
             } else {
