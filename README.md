@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0213-house-robber-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0374-guess-number-higher-or-lower) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Counting
 |  |
 | ------- |
