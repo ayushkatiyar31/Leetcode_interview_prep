@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0169-majority-element) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1395-minimum-time-visiting-all-points) |
 ## Dynamic Programming
