@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0816-design-hashset) |
+| [0907-koko-eating-bananas](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0907-koko-eating-bananas](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
