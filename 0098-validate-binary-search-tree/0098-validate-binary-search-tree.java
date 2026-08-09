@@ -36,6 +36,5 @@ class Solution {
         ans.add(root.val);
         inorder(root.right,ans);
     
-
     }
 }
