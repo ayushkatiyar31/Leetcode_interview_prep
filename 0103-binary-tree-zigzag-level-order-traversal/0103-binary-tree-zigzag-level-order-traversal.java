@@ -28,7 +28,6 @@ class Solution {
         boolean leftToRight = true;
 
         while(!queue.isEmpty()){
-
             int size = queue.size();
 
             List<Integer> level = new ArrayList<>();
@@ -47,9 +46,9 @@ class Solution {
                     if (!leftToRight) {
                 Collections.reverse(level);
             }
-
+    
             ans.add(level);
-
+                         
             leftToRight = !leftToRight;
         }
 
