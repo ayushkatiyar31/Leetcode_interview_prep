@@ -379,5 +379,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
