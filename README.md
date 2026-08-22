@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0242-valid-anagram) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0948-sort-an-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0148-sort-list) |
 | [0816-design-hashset](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0816-design-hashset) |
 ## Math
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Counting
 |  |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/ayushkatiyar31/Leetcode_interview_prep/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
